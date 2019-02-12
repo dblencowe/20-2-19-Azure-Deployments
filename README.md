@@ -4,8 +4,11 @@ For this event, either create a hello world application, or download the one fro
 
 # The Community
 This is the Behind The Buzz Word official Github - you can find our other social media presences at:
-https://behindthebuzzword.slack.com/messages/CG47C92HF/
+
+https://behindthebuzzword.slack.com/messages/CG47C92HF/ 
+
 https://www.eventbrite.co.uk/e/behind-the-buzz-word-tickets-56121268224
+
 Your hosts for this event are Ross Townsend (https://www.linkedin.com/in/rossbtownsend/) and Toli Apostolidis.
 
 # What You Need
