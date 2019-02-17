@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\tolis\\repos\\BehindTheBuzzWord\\20-2-19-Azure-Deployments\\WebApp\\WebApp.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
