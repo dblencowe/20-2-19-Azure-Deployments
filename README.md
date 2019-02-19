@@ -39,3 +39,36 @@ Once this is done, we will be editing the web app and publishing our changes.
 ### Create CI pipeline
 
 Create an Azure Pipeline so that every commit and push to the github repository, the Web App gets deployed automatically. 
+
+
+# Azure
+
+To access Azure you can either use `Azure Portal` directly, or via any type of integration, e.g. via `Visual Studio`, `Azure CLI` or `VS Code`. 
+
+## Azure Portal
+
+Create an account with azure at: 
+```
+https://azure.microsoft.com/en-gb/features/azure-portal/
+```
+
+You *should* end up here:
+
+```
+https://portal.azure.com/
+```
+
+## Azure Pipelines
+
+Sign into Azure Devops:
+
+```
+https://azure.microsoft.com/en-gb/services/devops/pipelines/
+```
+
+with your own credentials, or using the shared account:
+
+```
+Username: behindthebuzzword@outlook.com
+Password: posted in slack channel
+```
